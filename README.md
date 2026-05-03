@@ -48,7 +48,7 @@ Web-based DNS administration tool for PowerDNS. Currently modernizing the legacy
 
 - **Microsoft Azure Administrator Associate** (2021-2026)
 - **Microsoft Azure AI Engineer Associate** (2020-2026)
-- **HashiCorp Certified: Terraform Associate** (2024-2026)
+- **HashiCorp Certified: Terraform Associate (004)** (2024-2028)
 - **Google Cloud Professional Cloud Architect** (2019)
 - **CompTIA Security+** (2019)
 - **Certified Ethical Hacker (CEH)** (2015)
